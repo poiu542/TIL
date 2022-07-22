@@ -1,0 +1,24 @@
+# 프로그래밍이란?
+  사전에 수행할 절차(계획)를 기록해 놓은 것
+## 프로그램?
+  프로그램은 컴퓨터에만 사용하는 것이 아님. 일상에서도 많이 사용됨
+  ex) 교육 프로그램, 영화제 프로그램, 라디오 프로그램
+  여기서 컴퓨터, 교육, 영화제, 라디오와 같은 것들은 프로그램을 구성하는 재료로 비유할 수 있다.
+  프로그램을 구성하기 위해서는 이와같은 재료들이 필요하다.
+  
+ # 컴퓨터?
+  컴퓨터의 구성
+    중앙처리장치(CPU) - 산술/논리 연산, 흐름 제어
+    주기억장치(Memory) - 임시 저장소
+    다양한 입/출력 장치(HDD/ODD/...)
+    데이터 소스/영구 저장소, 모니터와 키보드는 기본 입출력 장치
+    콘솔?
+      사람이 기계를 사용하기 위한 장치
+      -> 입출력 장치의 조합에 따라서 컴퓨터의 종류/용도가 달라진다.
+
+# 컴퓨터 프로그램이란?
+  컴퓨터를 이용한 절차를 만들어 놓는 것
+  ALU(Arithmetic/Logical Unit) - 산술/논리 연산
+  CU(Control Unit) - 흐름 제어
+  <img src="https://www.notion.so/883b7fc8cfc44e22b641ea794f2293e0#bd501d4713d34a94b8d60c16e99dbe4e" width="300px" height="150px" alt="프로그램 절차표현도"></img>
+  <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae02340b-57ca-40f5-be5e-5198b30a8aa6/스크린샷_2022-07-22_오전_11.24.43.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220722%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220722T122600Z&X-Amz-Expires=86400&X-Amz-Signature=babd62e9c7b6b824b4aa79f344954b96a979d274199aea5b1e19988ef2e58816&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA%25202022-07-22%2520%25E1%2584%258B%25E1%2585%25A9%25E1%2584%258C%25E1%2585%25A5%25E1%2586%25AB%252011.24.43.png%22&x-id=GetObject" width="300px" height="150px" alt="프로그램 절차표현도"></img>
